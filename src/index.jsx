@@ -1,3 +1,3 @@
-export { Test, log } from './app';
+import { Test, log } from './app';
 
 log();
